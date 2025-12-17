@@ -935,20 +935,21 @@ h2 span {
     }
 
     #contact {
-        height: 120%;
+        height: 150%;
     }
 
     #about {
     height: 100%;
         padding-bottom:5%;
+        margin-top:-5%;
    }
 
      #skills {
-    height: 240%;
+    height: 250%;
    }
 
      #certification {
-    height: 70%;
+    height: 85%;
    }
 
    .certi-heading {
@@ -957,6 +958,7 @@ h2 span {
    }
 
 }
+
 
 
 
