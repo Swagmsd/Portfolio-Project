@@ -935,12 +935,17 @@ h2 span {
     }
 
     #contact {
-        height: 140%;
+        height: 120%;
     }
+       .contact-right img {
+    height: 300px;
+    width: 80%;
+    margin-left: 10%;
+}
 
     #about {
-    height: 105%;
-        padding-bottom:5%;
+    height: 95%;
+        padding-bottom:10%;
         margin-top:-5%;
    }
 
@@ -958,6 +963,7 @@ h2 span {
    }
 
 }
+
 
 
 
