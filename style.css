@@ -902,16 +902,16 @@ h2 span {
 
     .about-right {
         text-align: center;
-        margin-top: 20px;
+        margin-top: 15px;
     }
 
     .about-right p {
-      margin-bottom: 10%
+      margin-bottom: 5%
     }
 
 
     .about-right span {
-        font-size: 2rem;
+        font-size: 20px;
     }
 
         .info-head {
@@ -956,6 +956,7 @@ h2 span {
    }
 
 }
+
 
 
 
