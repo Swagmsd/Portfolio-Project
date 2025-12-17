@@ -864,12 +864,12 @@ h2 span {
     }
 
     .home-content h1 {
-        font-size: 40;
-        line-height: 1.5;
+        font-size: 30;
+        line-height: 1.2;
         margin-top: -5%;
     }
     .home-content h3 {
-        font-size: 26;
+        font-size: 20;
     }
 
     .home-content .btn-box {
@@ -951,5 +951,6 @@ h2 span {
    }
 
 }
+
 
 
