@@ -914,6 +914,11 @@ h2 span {
         font-size: 2rem;
     }
 
+        .info-head {
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+
     .contact-section {
         margin: 0;
         flex-direction: column;
@@ -951,6 +956,7 @@ h2 span {
    }
 
 }
+
 
 
 
