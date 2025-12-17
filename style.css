@@ -852,7 +852,7 @@ h2 span {
         height: 30%;
         transition: none;
         right: 30;   
-        margin-top: -55%; 
+        margin-top: -75%; 
     }
 
     .home {
@@ -877,7 +877,8 @@ h2 span {
     }
     
 .home-sci {
-    bottom: 280;
+    bottom: 340;
+    left: 30%;
 }
 
     .testimonials {
@@ -930,14 +931,19 @@ h2 span {
     }
 
     #about {
-    height: 110%;
+    height: 105%;
    }
 
      #skills {
-    height: 220%;
+    height: 215%;
    }
 
      #certification {
     height: 70%;
+   }
+
+   .certi-heading {
+    margin-top: -30px;
+    margin-bottom: 20px;
    }
 }
