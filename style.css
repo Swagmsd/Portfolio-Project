@@ -939,11 +939,12 @@ h2 span {
     }
 
     #about {
-    height: 105%;
+    height: 100%;
+        padding-bottom:5%;
    }
 
      #skills {
-    height: 215%;
+    height: 240%;
    }
 
      #certification {
@@ -956,6 +957,7 @@ h2 span {
    }
 
 }
+
 
 
 
