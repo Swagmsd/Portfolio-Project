@@ -125,7 +125,7 @@ body {
     position: relative;
     display: flex;
     justify-content: space-between;
-    width: 345px;
+    width: 330px;
     height: 50px;
 }
 
@@ -147,7 +147,7 @@ body {
     display: inline-flex;
     justify-content:center;
     align-items: center;
-    width: 150px;
+    width: 140px;
     height: 100%;
     background-color: #00abf0;
     border: solid 2px #00abf0;
